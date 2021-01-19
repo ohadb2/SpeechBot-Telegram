@@ -1,0 +1,11 @@
+numpy==1.16.5
+pydub==0.24.1
+ffmpeg==1.4
+telegram==0.0.1
+python-telegram-bot==13.1
+inaSpeechSegmenter
+SpeechRecognition
+google-cloud-translate==2.0.1
+google-cloud-speech
+tensorflow==2.2
+librosa
